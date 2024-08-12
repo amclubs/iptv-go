@@ -1,0 +1,20 @@
+{
+  "routes": [
+    {
+      "src": "/live/.*",
+      "dest": "/api/live.go"
+    },
+    {
+      "src": "/yqk/.*",
+      "dest": "/api/yqk/yqk.go"
+    },
+    {
+      "src": "/favicon.ico",
+      "dest": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico"
+    },
+    {
+      "src": "/.*",
+      "dest": "/api/index.go"
+    }
+  ]
+}

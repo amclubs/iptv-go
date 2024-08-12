@@ -1,0 +1,9 @@
+民视新闻,https://iptv-go-am.vercel.app/youtube/ylYJSBUgaMA?quality=1080
+中视新闻,https://iptv-go-am.vercel.app/youtube/TCnaIE_SAtM?quality=1080
+台视新闻,https://iptv-go-am.vercel.app/youtube/xL0ch83RAK8?quality=1080
+华视新闻,https://iptv-go-am.vercel.app/youtube/wM0g8EoUZ_E?quality=1080
+中天新闻,https://iptv-go-am.vercel.app/youtube/oIgbl7t0S_w?quality=1080
+东森新闻,https://iptv-go-am.vercel.app/youtube/quwqlazU-c8?quality=1080
+三立新闻,https://iptv-go-am.vercel.app/youtube/CKjSm5ZeehE?quality=1080
+寰宇新闻,https://iptv-go-am.vercel.app/youtube/B7Zp3d6xXWw?quality=1080
+公视新闻,https://iptv-go-am.vercel.app/youtube/quwqlazU-c8?quality=1080

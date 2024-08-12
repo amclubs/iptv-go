@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,直播间名称1
+http://iptv-go-am.vercel.app/douyin/500239447548?stream=hls
+#EXTINF:-1,直播间名称2
+http://iptv-go-am.vercel.app/douyin/88495050545?stream=hls
+#EXTINF:-1,直播间名称3
+http://iptv-go-am.vercel.app/douyin/905930555968?stream=hls

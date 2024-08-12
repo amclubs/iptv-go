@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,测试1
+http://iptv-go-am.vercel.app/bilibili/27059141?platform=h5&line=first&quality=10000
+#EXTINF:-1,测试1
+http://iptv-go-am.vercel.app/bilibili/23584459?platform=web&line=first&quality=10000
